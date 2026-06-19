@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm Rifat Bin Siraj 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer</b> · NestJS · TypeScript · React · Node.js · Java/Spring
+  <b>Senior Full-Stack Engineer</b> · Founder of DrutoAI · NestJS · TypeScript · React · Node.js · Java/Spring
   <br/>
-  Building production-grade backends, AI-powered products, and payment systems.
+  5+ years building production-grade backends, AI-powered products, and payment systems.
 </p>
 
 <p align="center">
+  <a href="https://rifatbinsiraj.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/rifatbinsiraj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -22,9 +25,10 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack Software Engineer who ships **end-to-end products** — from REST APIs and databases to React frontends and cloud deployment. I specialize in **TypeScript/NestJS** backends and have a strong track record building **AI integrations, payment gateways, and e-commerce platforms**.
+I'm a **Senior Full-Stack Engineer** with **5+ years** of experience shipping **end-to-end products** — from REST APIs and databases to React frontends and cloud deployment. I specialize in **TypeScript/NestJS** backends and have a strong track record building **AI integrations, payment gateways, and e-commerce platforms**.
 
-- 🔭 Currently engineering software at **Sense & Respond Software LLC**
+- 🔭 Engineering software at **Sense & Respond Software LLC** · Founder of **[DrutoAI](https://github.com/Rifat024/DrutoAi)**
+- 🌐 Portfolio: **[rifatbinsiraj.github.io/portfolio](https://rifatbinsiraj.github.io/portfolio/)**
 - 🧠 Passionate about **clean architecture, scalable APIs, and AI-driven products**
 - 🌍 Based in the **USA** · Open to backend & full-stack roles
 - 💬 Ask me about **NestJS, Node.js, system design, payment integrations, and LLM apps**
@@ -63,7 +67,9 @@ I'm a Full-Stack Software Engineer who ships **end-to-end products** — from RE
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white"/>
@@ -127,6 +133,9 @@ A lightweight payment verification microservice.
 I'm open to **Full-Stack & Backend Engineering** opportunities. Let's build something great together.
 
 <p align="center">
+  <a href="https://rifatbinsiraj.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-rifatbinsiraj.github.io-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/rifatbinsiraj/">
     <img src="https://img.shields.io/badge/LinkedIn-rifatbinsiraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
