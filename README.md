@@ -219,6 +219,50 @@ Dependency **vulnerability scanning and security auditing** for Node.js projects
 npm install vuln-guardian
 ```
 
+#### The Guardian family — supply-chain security CLIs for Node.js/CI
+
+Four more, same shape: scan → review → approve into a committed allowlist → gate CI on anything new.
+
+### [postinstall-guardian](https://www.npmjs.com/package/postinstall-guardian)
+
+[![npm](https://img.shields.io/npm/v/postinstall-guardian?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/postinstall-guardian)
+
+Scans `node_modules` for **preinstall/install/postinstall scripts** — the #1 npm supply-chain attack vector — and gates CI on anything not explicitly reviewed and approved.
+
+```bash
+npm install --save-dev postinstall-guardian
+```
+
+### [secrets-guardian](https://www.npmjs.com/package/secrets-guardian)
+
+[![npm](https://img.shields.io/npm/v/secrets-guardian?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/secrets-guardian)
+
+Scans a git working tree (or just staged files, for a pre-commit hook) for **leaked API keys and credentials** before they hit history. Every output is redacted — it never writes a raw secret anywhere.
+
+```bash
+npm install --save-dev secrets-guardian
+```
+
+### [license-guardian](https://www.npmjs.com/package/license-guardian)
+
+[![npm](https://img.shields.io/npm/v/license-guardian?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/license-guardian)
+
+Scans `node_modules` for dependency **licenses** and gates CI on copyleft (GPL/AGPL/LGPL/SSPL) or unrecognized licenses that aren't explicitly approved.
+
+```bash
+npm install --save-dev license-guardian
+```
+
+### [actions-guardian](https://www.npmjs.com/package/actions-guardian)
+
+[![npm](https://img.shields.io/npm/v/actions-guardian?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/actions-guardian)
+
+Scans `.github/workflows` for GitHub Actions referenced by a **mutable tag/branch** instead of a pinned commit SHA — the vector behind real 2025 supply-chain compromises — and auto-pins them.
+
+```bash
+npm install --save-dev actions-guardian
+```
+
 ---
 
 ## 💼 Experience
