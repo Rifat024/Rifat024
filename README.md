@@ -209,6 +209,16 @@ Node-native package converting **PDF, Word, Excel, CSV, HTML, JSON, text & image
 npm install files-to-markdown
 ```
 
+### [vuln-guardian](https://www.npmjs.com/package/vuln-guardian)
+
+[![npm](https://img.shields.io/npm/v/vuln-guardian?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/vuln-guardian)
+
+Dependency **vulnerability scanning and security auditing** for Node.js projects — surfaces known vulnerabilities in your dependency tree and fits into CI/CD pipelines.
+
+```bash
+npm install vuln-guardian
+```
+
 ---
 
 ## 💼 Experience
