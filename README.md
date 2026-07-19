@@ -263,6 +263,28 @@ Scans `.github/workflows` for GitHub Actions referenced by a **mutable tag/branc
 npm install --save-dev actions-guardian
 ```
 
+#### Defect monitoring — catch it, ticket it automatically
+
+### [crashrelay](https://www.npmjs.com/package/crashrelay)
+
+[![npm](https://img.shields.io/npm/v/crashrelay?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/crashrelay)
+
+Catches backend **crashes, HTTP 5xx responses, and error-log lines** and auto-files a ticket in **Jira or GitHub Issues** — with fingerprint-based dedup so the same defect doesn't spam a new ticket every time it recurs.
+
+```bash
+npm install crashrelay
+```
+
+### [crashrelay-browser](https://www.npmjs.com/package/crashrelay-browser)
+
+[![npm](https://img.shields.io/npm/v/crashrelay-browser?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/crashrelay-browser)
+
+Tiny, dependency-free browser snippet that catches `window.onerror` / `unhandledrejection` and reports them to a `crashrelay` ingestion endpoint.
+
+```bash
+npm install crashrelay-browser
+```
+
 ---
 
 ## 💼 Experience
