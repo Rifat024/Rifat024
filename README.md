@@ -14,7 +14,7 @@
 
 I'm a **Senior Full-Stack Engineer** with **5+ years** of experience shipping **end-to-end products** — from REST APIs and databases to React frontends and cloud deployment. I specialize in **TypeScript/NestJS** backends and have a strong track record building **AI integrations, payment gateways, and e-commerce platforms**.
 
-- 🔭 Engineering software at **Sense & Respond Software LLC** · Founder of **[DrutoAI Tech](https://drutoai.com](https://www.linkedin.com/company/druto-ai))**
+- 🔭 Engineering software at **Sense & Respond Software LLC** · Founder of **[DrutoAI Tech](https://www.linkedin.com/company/druto-ai)**
 - 🌐 Portfolio: **[rifatbinsiraj.github.io/portfolio](https://rifatbinsiraj.github.io/portfolio/)**
 - 🧠 Passionate about **clean architecture, scalable APIs, and AI-driven products**
 - 🌍 Based in **Dhaka, Bangladesh** · Open to backend & full-stack roles
